@@ -1,6 +1,6 @@
 # VeebDev
 
-_Kristel Roosimaa/Cleven Lehispuu_
+_Kristel Roosimaa/Cleven Lehispuu/Elle Elisa Ivantšikova
 <br>
 IFI6104 Veebisaidi arendus ja haldus aine raames tehtav veebisait
 <br><br>
